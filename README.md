@@ -2,6 +2,8 @@
 
 # EnviroLLM Guidelines
 
+![](https://esiil.org/sites/default/files/styles/link_tile/public/2025-04/getty-images-oU16G3G6WbM-unsplash.jpg?itok=JYujpaz1 "EnviroLLM Guidelines")
+
 Welcome to the **EnviroLLM Guidelines** repository. This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
