@@ -1,14 +1,14 @@
-site_name: 'ESIIL Working Group OASIS'
-site_description: 'Central resource for ESIIL working groups'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Working_group_home
+site_name: 'EnviroLLM Guidelines'
+site_description: 'Guidelines and tools for using LLMs for evidence synthesis in the environment'
+site_author: C.H. Chang
+site_url: https://cu-esiil.github.io/envirollm
 
 # Repository
-repo_name: Working-group-home
-repo_url: https://github.com/CU-ESIIL/Working_group_oasis
+repo_name: envirollm
+repo_url: https://github.com/CU-ESIIL/envirollm
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
+copyright: 'Copyright &copy; 2025 Pomona College and University of Colorado Boulder'
 
 # Page tree
 nav:
