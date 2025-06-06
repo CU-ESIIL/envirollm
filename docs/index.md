@@ -19,28 +19,28 @@ Information forthcoming.
 # Working Group Team
 
 ## Members
-- Charlotte Chang
-- Brian Robinson
-- J.T. Erbaugh
+- [Charlotte Chang](https://chang.eco)
+- [Brian Robinson](https://brianerobinson.com/)
+- [J.T. Erbaugh](https://www.nature.org/en-us/about-us/who-we-are/our-people/james-erbaugh/)
 - Kemen Austin
-- Max Callaghan
-- Samantha Cheng
-- Karletta Chief
-- Amrita Gupta
-- Lian Pin Koh
-- Sara Kuebbing
-- Biljana Macura
-- Sparkle Malone
-- Lucas Meyer
-- Michal Nachmany
-- Rhita Simorangkir
+- [Max Callaghan](https://mcallaghan.github.io/)
+- [Samantha Cheng](https://www.worldwildlife.org/experts/sam-cheng)
+- [Karletta Chief](https://profiles.arizona.edu/person/kchief)
+- [Amrita Gupta](https://www.microsoft.com/en-us/research/people/amritagupta/)
+- [Lian Pin Koh](https://www.nus.edu.sg/cncs/koh-lian-pin/)
+- [Sara Kuebbing](https://www.sarakuebbing.com/)
+- [Biljana Macura](https://www.sei.org/people/biljana-macura/)
+- [Sparkle Malone](https://environment.yale.edu/directory/faculty/sparkle-malone)
+- [Lucas Meyer](https://www.microsoft.com/en-us/research/people/lucasmeyer/)
+- [Michal Nachmany](https://www.climatepolicyradar.org/michal)
+- [Rhita Simorangkir](https://sites.google.com/site/rhitasimorangkir/)
 
 ## Board of Advisors
-- Caitlin Augustin
-- Stephanie Hampton
+- [Caitlin Augustin](https://data.org/organizations/datakind/)
+- [Stephanie Hampton](https://desp.ucdavis.edu/people/stephanie-hampton)
 - Yuta Masuda
-- John Poulsen
-- William Sutherland
+- [John Poulsen](https://www.nature.org/en-us/about-us/who-we-are/our-people/john-poulsen/)
+- [William Sutherland](https://www.zoo.cam.ac.uk/directory/bill-sutherland)
 - Niraj Swami
 
 ## Code Repository
