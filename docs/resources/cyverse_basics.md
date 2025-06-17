@@ -28,20 +28,32 @@
 2. Select `JupyterLab ESIIL`
    ![use_this_app](../assets/cyverse_basics/use_this_app.png)
 
-3. Configure and launch your analysis - when choosing the disk size, make sure to choose 64GB or greater. The rest of the settings you can change to suit your computing needs:
+3. MODIFICATION! Navigate to `Apps` --> `Shared with me` and select `ESIIL_Working_Groups`. This container/app will permit us to access GitHub (the default `JupyterLab ESIIL` environment does NOT).
+
+4. Configure and launch your analysis - when choosing the disk size, make sure to choose 64GB or greater. The rest of the settings you can change to suit your computing needs:
    ![app_launch](../assets/cyverse_basics/app_launch.png)
 
    ![app_settings](../assets/cyverse_basics/app_settings.png)
 
    ![launch](../assets/cyverse_basics/launch.png)
 
-4. Click `Go to analysis`:
+5. Click `Go to analysis`:
    ![go_to_analysis](../assets/cyverse_basics/go_to_analysis.png)
 
-5. Now you should see Jupyter Lab!
+6. Now you should see Jupyter Lab!
    ![jupyterlab](../assets/cyverse_basics/jupyterlab.png)
 
 ## Set up your GitHub credentials
+
+## Setting up GitHub credentials in an `ESIIL_Working_Groups` app
+
+1. Click on the `github_web_auth.ipynb` Jupyter notebook inside of the `/home/cyverse-utils` folder (you can see this in the File manager to the left --> folder icon).
+2. Execute the first cell and open GitHub.
+3. Copy in the 8-alphanumeric code
+4. Authenticate
+5. Now you can clone a GitHub repo!
+
+## NOTE: The content below is OLD. And DOES NOT WORK right now (as of June 2025).
 
 ### If you would prefer to follow a video instead of a written outline, we have prepared a video here:
 <a href="https://www.youtube.com/watch?v=nOwOzPJEQbU">
